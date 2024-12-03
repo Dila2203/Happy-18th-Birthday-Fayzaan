@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         " ",
         "You’ve brought so much light and happiness into my life, and I’m so grateful for you every single day. You’re not just kind and loving, you’re also incredibly thoughtful and caring. You always know how to make me smile, even on my hardest days. Just being around you or talking to you makes everything feel better.",
         " ",
-        "I want you to know how proud I’m of the person you are. You’ve grown so much in the in the past 4 years since I met you into someone so special, and it’s just the beginning of everything amazing that’s waiting for you. You have so much potential and such an awesome future ahead even though you don’t see it I do, and I’m so excited to see all the incredible things that’ll happen.",
+        "I want you to know how proud I am of the person you are. You’ve grown so much in the in the past 4 years since I met you into someone so special, and it’s just the beginning of everything amazing that’s waiting for you. You have so much potential and such an awesome future ahead even though you don’t see it I do, and I’m so excited to see all the incredible things that’ll happen.",
         " ",
         "Thank you for being you. Thank you for your love, your kindness, and all the little things you do that make such a big difference in my life. Thank you for always making me laughter, the support you give me, and the way you always make me feel cared for. You have such a big heart, and it’s one of the many reasons why you’re so special to me.",
         " ",
