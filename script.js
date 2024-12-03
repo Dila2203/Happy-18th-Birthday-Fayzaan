@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "On this big day, I hope you feel all the love and joy you deserve. I hope it’s a day filled with happiness, laughter, and everything that makes you feel special because you truly are. ",
         " ",
         "Happy birthday Fayzaan! Here’s to celebrating you today and every day after because you’re hella worth it. I’m so lucky to have you in my life, and I’ll always be here for you, no matter what.",
+        "I love you",
         
     ];
 
